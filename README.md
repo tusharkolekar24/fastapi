@@ -1,6 +1,7 @@
 ### 📌 Overview
 
 This project is a **FastAPI-based web API** that is fully containerized using **Docker** and deployed on **Microsoft Azure Cloud**. It is built with scalability and cloud-native best practices in mind, enabling seamless deployment with CI/CD pipelines or manual Docker push to Azure Container Registry.
+<img width="1820" height="862" alt="image" src="https://github.com/user-attachments/assets/6d35fe0b-4e27-40c7-aaa2-2258898f3cdf" />
 
 ---
 
@@ -153,5 +154,3 @@ Load in code using `python-dotenv`.
 If you have questions or feedback, feel free to reach out or open an issue in the repository.
 
 > ⭐ If you found this project useful, please star the repository!
-
-<img width="1820" height="862" alt="image" src="https://github.com/user-attachments/assets/6d35fe0b-4e27-40c7-aaa2-2258898f3cdf" />
